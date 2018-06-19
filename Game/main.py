@@ -3,5 +3,8 @@ def episodeselect():
      selectedepisode = input()
      if selectedepisode = ("1"):
           import ep1 from episodes
-     if selectedisode = ("2"):
+     if selectedepisode = ("2"):
+          import ep2 from episodes
+     if selectedepisode = ("3"):
+          import ep3 from episodes
           
