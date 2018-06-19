@@ -7,4 +7,6 @@ def episodeselect():
           import ep2 from episodes
      if selectedepisode = ("3"):
           import ep3 from episodes
+def episodereference():
+     
           
