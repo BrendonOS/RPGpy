@@ -3,6 +3,7 @@ def episodeselect():
      selectedepisode = input()
      if selectedepisode = ("1"):
           from episodes import ep1
+          ep1.play()
      if selectedepisode = ("2"):
           from episodes import ep2
      if selectedepisode = ("3"):
