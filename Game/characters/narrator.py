@@ -3,7 +3,8 @@ def entergame():
 def speak():
      currentspeaker = ("narrator")
      print (currentspeaker + ":" +  speech)
-def data():
+def data_setdefault():
      narratorrelationshipsallowed = ("false")
      narratorcantalk = ("true")
+     narratorinteractive = ("none")
      
