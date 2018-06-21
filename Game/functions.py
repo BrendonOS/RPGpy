@@ -6,4 +6,4 @@ def resetepisode():
 def shop():
      from function import shop
      shop.data()
-     shop.main()
+     
