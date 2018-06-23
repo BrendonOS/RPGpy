@@ -1,8 +1,8 @@
 def data():
   if currency = ("0"):
     itemsuccessfullypurchased = ("false")
-if currency < itemcurrentlypurchasing:
+if currency < itemcurrentlypurchasingprice:
   itemsuccessfullypurchased = ("false")
-if currency > or = itemcurrentlypurchasing:
+if currency > or = itemcurrentlypurchasingprice:
   itemsuccessfullypurchased = ("true")
   
