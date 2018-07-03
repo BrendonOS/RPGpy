@@ -1,7 +1,7 @@
 def checkforitem():
-  if itembeingcheckedforexists = ("exists-in-inventory"):
+  if itembeingcheckedforexists == ("exists-in-inventory"):
        hasitem = ("true")
-  if itembeingcheckedforexists = ("does-not-exist-in-inventory"):
+  if itembeingcheckedforexists == ("does-not-exist-in-inventory"):
        hasitem = ("false")
 def viewallitems():
   print ("Here are the available items:")
