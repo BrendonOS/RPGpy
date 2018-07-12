@@ -1,6 +1,6 @@
 from characters import narrator
 from player import playerroot
-from Game import functions
+import functions
 
 def play():
      playerroot.data_setdefault()
